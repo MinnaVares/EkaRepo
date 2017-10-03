@@ -1,0 +1,2 @@
+# EkaRepo
+Ensimmäinen harjoitus
